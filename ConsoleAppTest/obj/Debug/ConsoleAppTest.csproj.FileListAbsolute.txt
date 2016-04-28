@@ -1,0 +1,8 @@
+C:\Users\Даниел\Dropbox\SoftUni\01. Fundamental Level\02. High Quality Code\2016.01.20 - Solid принципи\Logger\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+C:\Users\Даниел\Dropbox\SoftUni\01. Fundamental Level\02. High Quality Code\2016.01.20 - Solid принципи\Logger\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+C:\Users\Даниел\Dropbox\SoftUni\01. Fundamental Level\02. High Quality Code\2016.01.20 - Solid принципи\Logger\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+C:\Users\Даниел\Dropbox\SoftUni\01. Fundamental Level\02. High Quality Code\2016.01.20 - Solid принципи\Logger\ConsoleAppTest\bin\Debug\SOLIDLogger.dll
+C:\Users\Даниел\Dropbox\SoftUni\01. Fundamental Level\02. High Quality Code\2016.01.20 - Solid принципи\Logger\ConsoleAppTest\bin\Debug\SOLIDLogger.pdb
+C:\Users\Даниел\Dropbox\SoftUni\01. Fundamental Level\02. High Quality Code\2016.01.20 - Solid принципи\Logger\ConsoleAppTest\obj\Debug\ConsoleAppTest.csprojResolveAssemblyReference.cache
+C:\Users\Даниел\Dropbox\SoftUni\01. Fundamental Level\02. High Quality Code\2016.01.20 - Solid принципи\Logger\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+C:\Users\Даниел\Dropbox\SoftUni\01. Fundamental Level\02. High Quality Code\2016.01.20 - Solid принципи\Logger\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb

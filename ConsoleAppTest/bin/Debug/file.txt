@@ -1,0 +1,6 @@
+a cannot be 5 <<21.1.2016 г. 12:03:52>> ??Critical??
+Out of memory <<21.1.2016 г. 12:03:52>> ??Critical??
+Unused local variable 'name' <<21.1.2016 г. 12:03:52>> ??Info??
+a cannot be 5 <<21.1.2016 г. 12:04:24>> ??Critical??
+Out of memory <<21.1.2016 г. 12:04:24>> ??Critical??
+Unused local variable 'name' <<21.1.2016 г. 12:04:24>> ??Info??
